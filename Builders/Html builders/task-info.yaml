@@ -8,24 +8,24 @@ files:
   visible: true
   placeholders:
   - offset: 83
-    length: 10
+    length: 25
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 83
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: RsOJqel91ytF+ayPlADPOvhOy4/WSSw7zF5lAvZwFS8=
-  - offset: 389
-    length: 6
+  - offset: 392
+    length: 492
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 389
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: ox+RjiDizH76htkWKPOdM1DnImfrfzKeBvje46quDwxkzBk0rdnPFpSOwW/dvZqbDck8j94sXrZ1MeYXOWMl8ANmLla73MNIZM0CWXoSiO1w5tWqgxHkKh0i5VZ5oXCcUbjZqqGHgCOTx+Sa/twHomIUYzotU67US2S6jov2COlFTepHl+YRtbalPqmcHHbK2doSyR4lr0KwaJ3kEQjIEMY7iK4EjVCFpvzr5f+Qz6tRluK7VmtfIShsfjptsxcbxrETkeHTMp9zNy+8RWuWgGrE7pj4EBDJX8fFExUJi7ROk9cQLZyQ6aEq7BxED5QEGoP93cNJWdSdfUVNjeEumhsepTtaLydBUFihbNO0TLbxjR0khcrWArWbIwVFmMtMtikYP4Py4cn0IQs7K7djtwvlBLMpbdQyYJ8TmZVRKwVEHqQtC7M+amstOQmFc5721b/ywyBC02kkft2ABRhyupzwYdU3uQlvrz5XiDU60yNwv0U50o8J33ffDjnILE5s47Z33x5EXub9QKFhlCg9JcQ+MA4dbHn+080Oj0au+Nj1ndJI3lHwOd5JAZfgnizy6ief/RW09hM/2P+7ZBrJc1HtMGLWvZ/bmZJbo1OIf0jh7CqqDR/4SFGP/8EVd/8eWU2pJFsmLwQC7g1rHw9B5A==
   encrypted_text: mMFwJKTThLYfAaIOF17xLoJC3gsd/R9T+mPZHx49ToQSKj/PqRK491N6C7avkeohjJlhqwLNoRaOL+gjn6ZrXl8tV45xyzchU6PEvOsYZtbnmr2rztBGzNuH5/eOnL+WBYRSJ2ySLhI61HPK3tZRuv4REtm5VKJMZwW6KkeMX5xJO8PyR17Z9ZMLdCXColxlputOU3z/k8jxWoUiD5Lbb0s4nah++ztqc92TWUZS1FmjC7teAwx8/bYDgw71er78XmnPp+zShX5Kw7N0x2/kIa8xPEk1dN4irKIjJv55tiIaCNO8zxnmiYBllHeG5eLdl1iJxCHRVdTmr5T938+g4EFm6Koz+xCzdPXkAhX8rG6dcqEL0TllF0skOYUCxG5DXTwT3MzpotChrp7MwqQniSYgV7R8BOo3Tut531pKEDU+/2ptr/D1plCHfJHGr7OzNmXLhxOB//11p9xuuCjbEN5H3FGNM6HVoTB5KQFvAjjJ3XOtJiX8q0CCkjoxCNIim++CV2NVpfBPbU/88rBUXPM4nJ2mgpmGfItxOK/doyTjRJ0MJU3NRyuTBSmWCXtpib5N8WNTVRNrLjRpUDZqwn1xGrBUNoDJTlrae/RdNShKHqOpwy6jjz273t2WaY7/RMhs+K97OmgxsH8xbU49tMChpvektlxJFwj25pbi1cVbpidF/e1mkVp6SMoyj9DGvSFGCNqEflmYyeAkr1HXAXDu8MxUBNzaIMnuT6Jv4io=
   learner_created: false
@@ -50,5 +50,8 @@ files:
   encrypted_text: x8efRHEn6mtpcBlEA1h0fE7+If60lYp0eoOkDvh1SBb8brLSlVeq+z5mnvRUPPHnwQjlihx0oR6q5ImURN17IXFONQqxOkStM61xbAv41I3YA+fbff/Sz+/U5JYxR/MUAfc4E1AEoWwZ2kWYzI9C4/O4QT2BA38Kww12f0Jp+OpaGzUP1OdGhOh9oeootjDtPFJ0LYBqK1WkSBiTj9PWrsAvv93mfXhhokeHtL5myorevL3CcpdlrTz6ARKCb0BD/taJ/NdfwbOwF1eK8pwqstYZ00WVJLNTrtEuIQY++GvBH7sqbIQsZ9yY2+TS0++sKTowav/854uSlf2LnqK3OqmyiW9Ui4ara1Awjm0ZT55ru/iycCdWQbTHQvv+zJX3f7Ee5Xk+w97CDKoJhGl29PRtKbe31MtlJG0emiHBVVrM5WlfRtsUDQf4avDEkpnVZylr5+7JBT2FKGlv9k/d2fHbzFzekqVrMNLlAiNuqr0=
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Builders+/+Html+builders
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 10 May 2023 13:20:39 UTC"
 record: -1
