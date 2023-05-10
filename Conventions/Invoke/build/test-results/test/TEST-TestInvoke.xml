@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestInvoke" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-10T08:37:58" hostname="DESKTOP-DE9VG5M" time="0.011">
-  <properties/>
-  <testcase name="testInvokeTwice" classname="TestInvoke" time="0.008"/>
-  <testcase name="testNumberOfInvocations" classname="TestInvoke" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
