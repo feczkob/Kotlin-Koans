@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestComparison" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-09T12:14:04" hostname="botond-Nitro-AN517-54" time="0.003">
+  <properties/>
+  <testcase name="testAfter" classname="TestComparison" time="0.002"/>
+  <testcase name="testSame" classname="TestComparison" time="0.0"/>
+  <testcase name="testBefore" classname="TestComparison" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
